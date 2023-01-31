@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 44 82" class="design-iconfont">
+  <defs>
+    <linearGradient id="4cnry1zwn__h0grp1s5qa" x1=".807" y1=".593" x2=".974" y2=".773" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3a8df5" stop-opacity="0"/>
+      <stop offset="1" stop-color="#3a8df5"/>
+    </linearGradient>
+    <linearGradient id="4cnry1zwn__2un2q0f26b" x1=".73" y1=".696" x2=".852" y2=".887" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3a8df5" stop-opacity="0"/>
+      <stop offset="1" stop-color="#a9cdfc"/>
+    </linearGradient>
+    <linearGradient id="4cnry1zwn__tvjkvf52be" x1=".193" y1=".407" x2=".026" y2=".227" xlink:href="#4cnry1zwn__h0grp1s5qa"/>
+    <linearGradient id="4cnry1zwn__pfld76r8ff" x1=".27" y1=".304" x2=".148" y2=".113" xlink:href="#4cnry1zwn__2un2q0f26b"/>
+    <linearGradient id="4cnry1zwn__sfwxgrgg0h" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3a8df5" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#3a8df5"/>
+    </linearGradient>
+    <linearGradient id="4cnry1zwn__psongpgb8i" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#aec3fc"/>
+    </linearGradient>
+    <filter id="4cnry1zwn__fdk6k1jp8c" x="0" y="0" width="44" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dx="-2"/>
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feFlood flood-color="#3a8df5" result="c"/>
+      <feComposite operator="out" in="SourceGraphic" in2="b"/>
+      <feComposite operator="in" in="c"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="4cnry1zwn__4jx29v9t6d" x="0" y="0" width="44" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dx="-2"/>
+      <feGaussianBlur stdDeviation="3" result="e"/>
+      <feFlood flood-color="#3a8df5" result="f"/>
+      <feComposite operator="out" in="SourceGraphic" in2="e"/>
+      <feComposite operator="in" in="f"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <clipPath id="4cnry1zwn__lfls9ruy0g"/>
+  </defs>
+  <g filter="url(#4cnry1zwn__4jx29v9t6d)">
+    <path fill="#fff" d="M22 0A22 22 0 1 0 22 44A22 22 0 1 0 22 0Z"/>
+  </g>
+  <path d="M22,2a20.006,20.006,0,0,0-7.784,38.429A20.006,20.006,0,0,0,29.784,3.571,19.873,19.873,0,0,0,22,2m0-2A22,22,0,1,1,0,22,22,22,0,0,1,22,0Z" fill="url(#4cnry1zwn__h0grp1s5qa)"/>
+  <path d="M22,1a21.006,21.006,0,0,0-8.174,40.35A21.006,21.006,0,0,0,30.174,2.65,20.868,20.868,0,0,0,22,1m0-1A22,22,0,1,1,0,22,22,22,0,0,1,22,0Z" fill="url(#4cnry1zwn__2un2q0f26b)"/>
+  <path d="M22,42A20.006,20.006,0,0,0,29.784,3.571,20.006,20.006,0,0,0,14.216,40.429,19.873,19.873,0,0,0,22,42m0,2A22,22,0,1,1,44,22,22,22,0,0,1,22,44Z" fill="url(#4cnry1zwn__tvjkvf52be)"/>
+  <path d="M22,43A21.006,21.006,0,0,0,30.174,2.65a21.006,21.006,0,0,0-16.348,38.7A20.868,20.868,0,0,0,22,43m0,1A22,22,0,1,1,44,22,22,22,0,0,1,22,44Z" fill="url(#4cnry1zwn__pfld76r8ff)"/>
+  <g clip-path="url(#4cnry1zwn__lfls9ruy0g)" transform="translate(-1591 -739)">
+    <path transform="translate(1599 747)" opacity=".2" fill="#3a8df5" d="M14 0A14 14 0 1 0 14 28A14 14 0 1 0 14 0Z"/>
+    <path transform="translate(1613 763)" fill="#72b1ff" opacity=".2" d="M12 0A12 12 0 1 0 12 24A12 12 0 1 0 12 0Z"/>
+  </g>
+  <g>
+    <g fill="#3a8df5">
+      <path transform="translate(8 74)" opacity=".1" d="M14 0A14 4 0 1 0 14 8A14 4 0 1 0 14 0Z"/>
+      <path transform="translate(14 76)" d="M8 0A8 2 0 1 0 8 4A8 2 0 1 0 8 0Z"/>
+    </g>
+    <path transform="translate(21 44)" fill="url(#4cnry1zwn__sfwxgrgg0h)" d="M0 0H2V32H0z"/>
+  </g>
+  <g transform="translate(11.604 13.162)" fill="url(#4cnry1zwn__psongpgb8i)">
+    <path d="M355.359,0h.227a4.174,4.174,0,1,1-4.273,3.943A4.172,4.172,0,0,1,353.627.434,4.217,4.217,0,0,1,355.359,0Z" transform="translate(-345.242)"/>
+    <path d="M4.476,92.373a3.321,3.321,0,0,1,1.618.009,4.931,4.931,0,0,0-.6,1.552A4.8,4.8,0,0,0,6.933,98.37a3.05,3.05,0,0,1-.591.28,3.481,3.481,0,0,0-.965.507,7.725,7.725,0,0,0-2.293,3.027,7.582,7.582,0,0,0-.589,2.654H0v-1.292a6.79,6.79,0,0,1,.069-.685,5.218,5.218,0,0,1,4.018-4.244,3.286,3.286,0,0,1,.388-6.244Zm9.9.1a3.426,3.426,0,0,1,1.025-.2A3.279,3.279,0,0,1,18.354,97.2a3.317,3.317,0,0,1-1.65,1.418,5.241,5.241,0,0,1,3.667,3.041,5.315,5.315,0,0,1,.421,1.884v1.3q-1.434,0-2.868,0a7.577,7.577,0,0,0-.556-2.584,7.672,7.672,0,0,0-2.994-3.575A.21.21,0,0,1,14.3,98.6a2.974,2.974,0,0,1-.671-.368,4.865,4.865,0,0,0,.746-.992,4.831,4.831,0,0,0,.009-4.765ZM11.4,99.19A6.666,6.666,0,0,1,16.9,105a12.7,12.7,0,0,1,.041,1.426c.013.645,0,1.291.006,1.936H3.538c0-.245,0-.491,0-.736,0-.178.006-.356-.012-.534q0-.7,0-1.4a6.572,6.572,0,0,1,.566-2.631,6.673,6.673,0,0,1,4.871-3.847q.62.59,1.241,1.178.6-.6,1.2-1.2m-2.717,5.449c.482.479.962.962,1.443,1.442l1.4-1.358q-.661-2.166-1.326-4.33Q9.442,102.513,8.687,104.638Z" transform="translate(0 -90.684)"/>
+  </g>
+</svg>

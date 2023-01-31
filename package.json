@@ -1,0 +1,49 @@
+{
+  "name": "szyj-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "amfe-flexible": "^2.2.1",
+    "ant-design-vue": "^3.2.7",
+    "axios": "^0.27.2",
+    "core-js": "^3.8.3",
+    "countup.js": "^2.3.2",
+    "echarts": "^5.3.3",
+    "echarts-gl": "^2.0.9",
+    "element-plus": "^2.2.8",
+    "highcharts": "^10.2.1",
+    "lodash": "^4.17.21",
+    "pinyin-pro": "^3.11.0",
+    "swiper": "^8.4.4",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vue-seamless-scroll": "^1.1.23",
+    "vue-wechat-title": "^2.0.7",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vue": "^8.0.3",
+    "less": "^4.0.0",
+    "less-loader": "^8.0.0",
+    "postcss": "^8.4.14",
+    "postcss-loader": "^7.0.0",
+    "postcss-preset-env": "^7.7.1",
+    "postcss-pxtorem": "^6.0.0",
+    "prettier": "^2.4.1"
+  }
+}

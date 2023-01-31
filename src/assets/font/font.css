@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "DIN Alternate";
+  src: url("./font/DIN-Alternate-Bold.ttf");
+}
+@font-face {
+  font-family: "PingFang HK";
+  src: url("./font/Alibaba-PuHuiTi-Regular.otf");
+}
+@font-face {
+  font-family: "DOUYU";
+  src: url("./font/斗鱼追光体2.0.ttf");
+}
+@font-face {
+  font-family: "PingFang SC";
+  src: url("./font/Alibaba-PuHuiTi-Medium.otf");
+}
