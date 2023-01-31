@@ -1,6 +1,4 @@
-# 数据底座&数智宜居
-- [UI](https://codesign.qq.com/s/OD8r0Bpmd3jRXkg)
-- [接口文档](http://121.196.214.133:9100/doc.html)
+## Demo
 
 ## Project setup
 ```
